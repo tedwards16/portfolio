@@ -1,0 +1,101 @@
+<<<<<<< Updated upstream
+=======
+.wallpaper {
+    background-image: url(images/alisa-anton-TFB-yM97hGg-unsplash.jpg);
+    background-size: cover;
+    background-position: center top;
+    height: 400px;
+}
+
+.title-content{
+    text-align: center;
+}
+
+h2 {
+    font-weight: 300;
+}
+
+h4 {
+    border-bottom: 1px solid white;
+    padding-bottom: 15px;
+    font-weight: 100;
+}
+
+.social-media-button {
+    padding-top: 5px;
+    margin-left: 20px;
+    border: 1px solid white;
+    background-color: white;
+    color: #5c9186;
+    border-radius: 2px;
+}
+
+h6 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.aspectRatioBox {
+    background-size: cover;
+    background-position: center;
+    padding-top: calc(2 / 3 * 100%);
+    overflow: hidden;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top: 2px solid #5c9186;
+}
+
+.bio {
+    margin-top: 300px;
+    padding-top: 10px;
+}
+
+.img-me {
+    padding: 15px 0px 15px 0px;
+}
+
+.project-blocks {
+    overflow-x: scroll;
+}
+
+.block {
+    border-radius: 5px;
+}
+
+h5 {
+    font-weight: 300;
+    padding-top: 2px;
+}
+
+.section-title {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.altcademy {
+    color: black;
+    font-weight: 200;
+    text-decoration: none;
+}
+.altcademy:hover {
+    text-decoration: underline;
+    color: darkgray;
+}
+
+.footer {
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.footer-icons {
+   margin-top: 60px;
+   text-align: end;
+}
+
+p {
+    text-align: center;
+}
+
+#aboutme {
+    padding-top: 20px;
+}
+>>>>>>> Stashed changes
