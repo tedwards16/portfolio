@@ -1,10 +1,12 @@
-<<<<<<< Updated upstream
-=======
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .wallpaper {
     background-image: url(images/alisa-anton-TFB-yM97hGg-unsplash.jpg);
     background-size: cover;
     background-position: center top;
-    height: 400px;
+    height: 500px;
 }
 
 .title-content{
@@ -28,6 +30,7 @@ h4 {
     background-color: white;
     color: #5c9186;
     border-radius: 2px;
+    text-decoration: none;
 }
 
 h6 {
@@ -46,12 +49,12 @@ h6 {
 }
 
 .bio {
-    margin-top: 300px;
-    padding-top: 10px;
+    margin-top: 40px;
 }
 
+
 .img-me {
-    padding: 15px 0px 15px 0px;
+    padding: 15px 0px 40px 0px;
 }
 
 .project-blocks {
@@ -69,7 +72,7 @@ h5 {
 
 .section-title {
     text-align: center;
-    padding-top: 5px;
+    padding-top: 15px;
 }
 
 .altcademy {
@@ -83,11 +86,11 @@ h5 {
 }
 
 .footer {
-    margin-top: 40px;
+    margin-top: 20px;
     justify-content: space-between;
 }
 .footer-icons {
-   margin-top: 60px;
+   margin-top: 20px;
    text-align: end;
 }
 
@@ -96,6 +99,7 @@ p {
 }
 
 #aboutme {
-    padding-top: 20px;
+    padding-top: 60px;
+    font-size: large;
+    font-weight: 300;
 }
->>>>>>> Stashed changes
